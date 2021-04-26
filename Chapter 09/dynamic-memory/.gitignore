@@ -1,0 +1,7 @@
+malloc
+calloc
+realloc
+aligned_alloc
+strings
+dynarray
+gapbuf
